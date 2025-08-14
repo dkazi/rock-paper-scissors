@@ -26,6 +26,7 @@ A simple **Rock-Paper-Scissors** game written in Python, where you play against 
 ```bash
 git clone https://github.com/username/rock-paper-scissors.git
 
+
 2.Navigate to the project folder:
 
 cd rock-paper-scissors
