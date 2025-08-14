@@ -43,6 +43,6 @@ Computer: scissors
 You win!
 Player points:   1
 Computer points: 0
-
+----------------------------------------------------
 Play again? (y/n):
 
