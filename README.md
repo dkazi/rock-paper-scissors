@@ -38,11 +38,16 @@ python game.py
 ## Example
 
 Enter a choice (rock, paper, scissors): rock
+
 Player:   rock
+
 Computer: scissors
+
 You win!
+
 Player points:   1
+
 Computer points: 0
-----------------------------------------------------
+
 Play again? (y/n):
 
